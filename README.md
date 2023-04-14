@@ -2,19 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6dc5d1&height=250&section=header&text=JiwonJung&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
-####  :wave: Welcome my github profile !
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon615&show_icons=true&theme=radical)
 
-  
- <br/>
- <br/>
-   
- <br/>
 
-<!--<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp
--> 배지는 https://shields.io/
--> 아이콘은 https://simpleicons.org/
--->
-  
+  <!--
 <h3 align="center">📚 Once I've Used 📚</h3>
   
 <img src="https://img.shields.io/badge/Java8-007396?style=for-the-badge&logo=JAVA&logoColor=white"><br>
@@ -62,12 +53,8 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">  <br>
 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-<img src="https://img.shields.io/badge/Teams-9266CC?style=for-the-badge&logo=Teams&logoColor=white">
+<img src="https://img.shields.io/badge/Teams-9266CC?style=for-the-badge&logo=Teams&logoColor=white"> -->
 
-
-   <br/>
-   <br/>
- 
 <h3 align="center">:pencil2:Study log :pencil2:</h3>
 
  
